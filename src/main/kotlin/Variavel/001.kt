@@ -1,3 +1,5 @@
+package Variavel
+
 fun main() {
     var product = "iMac"
 
