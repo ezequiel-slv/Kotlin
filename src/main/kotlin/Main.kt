@@ -1,9 +1,3 @@
 fun main() {
-    var product = "iMac"
-
-    product = "Iphone"
-
-    println(product)
+ println("Hello Kotlin")
 }
-
-//variavel mutavel
