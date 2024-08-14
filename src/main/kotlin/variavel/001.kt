@@ -1,4 +1,4 @@
-package Variavel
+package variavel
 
 fun main() {
     var product = "iMac"

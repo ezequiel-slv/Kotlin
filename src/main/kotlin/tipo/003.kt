@@ -1,4 +1,4 @@
-package Tipos
+package tipo
 
 fun main(){
     val product = "Smartphone"
