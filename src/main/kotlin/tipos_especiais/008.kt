@@ -1,7 +1,7 @@
 package tipos_especiais
 
 fun main (){
-//números
+// "\n" e "\t"
     val nome = "Ezequiel"
     val sobreNome = "Silva Lima"
     val pularLinha = '\n' // Pula uma linha
